@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SourceCode\\.NET\\ReservationSystem\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\SourceCode\\ReservationSystem\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\SourceCode\\.NET\\ReservationSystem\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\SourceCode\\ReservationSystem\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SourceCode\\.NET\\ReservationSystem\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\SourceCode\\ReservationSystem\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\SourceCode\\.NET\\ReservationSystem\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\SourceCode\\ReservationSystem\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\tanon\\.nuget\\packages\\",
-        "outputPath": "C:\\SourceCode\\.NET\\ReservationSystem\\Infrastructure\\obj\\",
+        "outputPath": "C:\\SourceCode\\ReservationSystem\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tanon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,30 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

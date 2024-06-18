@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace Domain.Entities
 {
-    internal class Admin : User
+    public class Admin : User
     {
-        public string Role {  get; set; } = "admin";
+        public Admin()
+        {
+            Role = "admin";
+        }
+
+        public string Role { get; private set; }
     }
 }

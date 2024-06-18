@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SourceCode\\.NET\\ReservationSystem\\ReservationSystem\\ReservationSystem.csproj": {}
+    "C:\\SourceCode\\ReservationSystem\\ReservationSystem\\ReservationSystem.csproj": {}
   },
   "projects": {
-    "C:\\SourceCode\\.NET\\ReservationSystem\\ReservationSystem\\ReservationSystem.csproj": {
+    "C:\\SourceCode\\ReservationSystem\\ReservationSystem\\ReservationSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SourceCode\\.NET\\ReservationSystem\\ReservationSystem\\ReservationSystem.csproj",
+        "projectUniqueName": "C:\\SourceCode\\ReservationSystem\\ReservationSystem\\ReservationSystem.csproj",
         "projectName": "ReservationSystem",
-        "projectPath": "C:\\SourceCode\\.NET\\ReservationSystem\\ReservationSystem\\ReservationSystem.csproj",
+        "projectPath": "C:\\SourceCode\\ReservationSystem\\ReservationSystem\\ReservationSystem.csproj",
         "packagesPath": "C:\\Users\\tanon\\.nuget\\packages\\",
-        "outputPath": "C:\\SourceCode\\.NET\\ReservationSystem\\ReservationSystem\\obj\\",
+        "outputPath": "C:\\SourceCode\\ReservationSystem\\ReservationSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tanon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

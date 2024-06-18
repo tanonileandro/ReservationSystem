@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SourceCode\\.NET\\ReservationSystem\\Application\\Application.csproj": {}
+    "C:\\SourceCode\\ReservationSystem\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\SourceCode\\.NET\\ReservationSystem\\Application\\Application.csproj": {
+    "C:\\SourceCode\\ReservationSystem\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SourceCode\\.NET\\ReservationSystem\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\SourceCode\\ReservationSystem\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\SourceCode\\.NET\\ReservationSystem\\Application\\Application.csproj",
+        "projectPath": "C:\\SourceCode\\ReservationSystem\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\tanon\\.nuget\\packages\\",
-        "outputPath": "C:\\SourceCode\\.NET\\ReservationSystem\\Application\\obj\\",
+        "outputPath": "C:\\SourceCode\\ReservationSystem\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tanon\\AppData\\Roaming\\NuGet\\NuGet.Config",

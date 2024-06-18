@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UBG5Yqu4TwI8ltibRxh3YxZrq9PwuBOjViRp4jGLE+eN0O4TQ0srG5O7TwqfI2n3fDwLttPrdeSlKYlr6lGjIg==",
+  "dgSpecHash": "4gjBQLQMRxUKSF+JFbvi0nq+p4k+Ch5ib1ltPbmS7uLqlIPApDEuDv0JXTpNhG31H5bmUXsTViDyHeRqxlR5tw==",
   "success": true,
-  "projectFilePath": "C:\\SourceCode\\.NET\\ReservationSystem\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\SourceCode\\ReservationSystem\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
