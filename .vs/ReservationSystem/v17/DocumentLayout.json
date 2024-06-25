@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\SourceCode\\ReservationSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78AE0386-72B1-464C-A231-0DE1F387A1BE}|Infrastructure\\Infrastructure.csproj|c:\\sourcecode\\reservationsystem\\infrastructure\\data\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78AE0386-72B1-464C-A231-0DE1F387A1BE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFEE52D9-7EB6-49E6-B7AC-8B8E91E74113}|Application\\Application.csproj|c:\\sourcecode\\reservationsystem\\application\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE52D9-7EB6-49E6-B7AC-8B8E91E74113}|Application\\Application.csproj|solutionrelative:application\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3033979-BF01-4E0D-8995-F290DDBC1CD1}|Domain\\Domain.csproj|c:\\sourcecode\\reservationsystem\\domain\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3033979-BF01-4E0D-8995-F290DDBC1CD1}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3033979-BF01-4E0D-8995-F290DDBC1CD1}|Domain\\Domain.csproj|c:\\sourcecode\\reservationsystem\\domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3033979-BF01-4E0D-8995-F290DDBC1CD1}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3033979-BF01-4E0D-8995-F290DDBC1CD1}|Domain\\Domain.csproj|c:\\sourcecode\\reservationsystem\\domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3033979-BF01-4E0D-8995-F290DDBC1CD1}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71E708A2-323B-4BCF-8887-6B49AC4475DD}|ReservationSystem\\ReservationSystem.csproj|c:\\sourcecode\\reservationsystem\\reservationsystem\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E708A2-323B-4BCF-8887-6B49AC4475DD}|ReservationSystem\\ReservationSystem.csproj|solutionrelative:reservationsystem\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3033979-BF01-4E0D-8995-F290DDBC1CD1}|Domain\\Domain.csproj|c:\\sourcecode\\reservationsystem\\domain\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3033979-BF01-4E0D-8995-F290DDBC1CD1}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B3033979-BF01-4E0D-8995-F290DDBC1CD1}|Domain\\Domain.csproj|c:\\sourcecode\\reservationsystem\\domain\\interfaces\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3033979-BF01-4E0D-8995-F290DDBC1CD1}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3033979-BF01-4E0D-8995-F290DDBC1CD1}|Domain\\Domain.csproj|c:\\sourcecode\\reservationsystem\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3033979-BF01-4E0D-8995-F290DDBC1CD1}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFEE52D9-7EB6-49E6-B7AC-8B8E91E74113}|Application\\Application.csproj|c:\\sourcecode\\reservationsystem\\application\\services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFEE52D9-7EB6-49E6-B7AC-8B8E91E74113}|Application\\Application.csproj|solutionrelative:application\\services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3033979-BF01-4E0D-8995-F290DDBC1CD1}|Domain\\Domain.csproj|c:\\sourcecode\\reservationsystem\\domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3033979-BF01-4E0D-8995-F290DDBC1CD1}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71E708A2-323B-4BCF-8887-6B49AC4475DD}|ReservationSystem\\ReservationSystem.csproj|c:\\sourcecode\\reservationsystem\\reservationsystem\\reservationsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -46,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,46 +50,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HotelDbContext.cs",
-              "DocumentMoniker": "C:\\SourceCode\\ReservationSystem\\Infrastructure\\Data\\HotelDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\HotelDbContext.cs",
-              "ToolTip": "C:\\SourceCode\\ReservationSystem\\Infrastructure\\Data\\HotelDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\HotelDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "DocumentIndex": 1,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\SourceCode\\ReservationSystem\\ReservationSystem\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "ReservationSystem\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\SourceCode\\ReservationSystem\\ReservationSystem\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "ReservationSystem\\Controllers\\ReservationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:22:02.298Z",
+              "WhenOpened": "2024-06-25T21:56:53.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\SourceCode\\ReservationSystem\\Domain\\Entities\\Room.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Room.cs",
               "ToolTip": "C:\\SourceCode\\ReservationSystem\\Domain\\Entities\\Room.cs",
               "RelativeToolTip": "Domain\\Entities\\Room.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T22:31:04.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Reservation.cs",
-              "DocumentMoniker": "C:\\SourceCode\\ReservationSystem\\Domain\\Entities\\Reservation.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Reservation.cs",
-              "ToolTip": "C:\\SourceCode\\ReservationSystem\\Domain\\Entities\\Reservation.cs",
-              "RelativeToolTip": "Domain\\Entities\\Reservation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T22:30:49.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\SourceCode\\ReservationSystem\\Domain\\Entities\\Client.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Client.cs",
@@ -106,46 +89,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\SourceCode\\ReservationSystem\\Domain\\Entities\\Admin.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Admin.cs",
-              "ToolTip": "C:\\SourceCode\\ReservationSystem\\Domain\\Entities\\Admin.cs",
-              "RelativeToolTip": "Domain\\Entities\\Admin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T22:29:39.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\SourceCode\\ReservationSystem\\Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
               "ToolTip": "C:\\SourceCode\\ReservationSystem\\Domain\\Entities\\User.cs",
               "RelativeToolTip": "Domain\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABHAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBYAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T22:13:47.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\SourceCode\\ReservationSystem\\Application\\Services\\Class1.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Class1.cs",
-              "ToolTip": "C:\\SourceCode\\ReservationSystem\\Application\\Services\\Class1.cs",
-              "RelativeToolTip": "Application\\Services\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\SourceCode\\ReservationSystem\\Application\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ReservationService.cs",
+              "ToolTip": "C:\\SourceCode\\ReservationSystem\\Application\\Services\\ReservationService.cs",
+              "RelativeToolTip": "Application\\Services\\ReservationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T22:14:14.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "IReservationRepository.cs",
+              "DocumentMoniker": "C:\\SourceCode\\ReservationSystem\\Domain\\Interfaces\\IReservationRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IReservationRepository.cs",
+              "ToolTip": "C:\\SourceCode\\ReservationSystem\\Domain\\Interfaces\\IReservationRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IReservationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:52:02.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ReservationSystem.csproj",
               "DocumentMoniker": "C:\\SourceCode\\ReservationSystem\\ReservationSystem\\ReservationSystem.csproj",
               "RelativeDocumentMoniker": "ReservationSystem\\ReservationSystem.csproj",
@@ -158,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\SourceCode\\ReservationSystem\\ReservationSystem\\Program.cs",
               "RelativeDocumentMoniker": "ReservationSystem\\Program.cs",

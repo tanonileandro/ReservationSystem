@@ -24,4 +24,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+    <ProjectReference Include="..\ReservationSystem\ReservationSystem.csproj" />
+  </ItemGroup>
+
 </Project>

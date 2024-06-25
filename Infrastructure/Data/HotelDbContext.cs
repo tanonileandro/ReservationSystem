@@ -14,7 +14,6 @@ namespace Infrastructure.Data
             : base(options)
         {
         }
-
         public DbSet<User> Users { get; set; }
         public DbSet<Admin> Admins { get; set; }
         public DbSet<Client> Clients { get; set; }
@@ -28,13 +27,13 @@ namespace Infrastructure.Data
                 .HasOne(r => r.Client)
                 .WithMany(c => c.Reservations)
                 .HasForeignKey(r => r.ClientId)
-                .OnDelete(DeleteBehavior.Restrict); // Opcional: Define el comportamiento de borrado
+                .OnDelete(DeleteBehavior.Restrict);
 
             modelBuilder.Entity<Reservation>()
                 .HasOne(r => r.Room)
                 .WithMany()
                 .HasForeignKey(r => r.RoomId)
-                .OnDelete(DeleteBehavior.Restrict); // Opcional: Define el comportamiento de borrado
+                .OnDelete(DeleteBehavior.Restrict);
         }
     }
 }
